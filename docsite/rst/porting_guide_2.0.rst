@@ -375,5 +375,5 @@ Porting custom scripts
 ======================
 
 Custom scripts that used the ``ansible.runner.Runner`` API in 1.x have to be ported in 2.x.  Please refer to:
-https://github.com/ansible/ansible/blob/devel/docsite/rst/developing_api.rst
+https://github.com/ansible/ansible/blob/devel/docsite/rst/dev_guide/developing_api.rst
 
